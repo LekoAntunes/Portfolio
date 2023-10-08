@@ -1,0 +1,13 @@
+{
+    "main_path": "E:/Dev/WEG/",
+    "reports": {
+        "br_ifrs15": {            
+            "job_sap": "",
+            "file": "Reports/2023_HISTORICO_RECONHECIMENTO_RECEITA_dev.xlsx",
+            "info": "Atualiza o histórico de reconhecimento de receita emitido na localização BR",
+            "support_data": {
+                "carrier_nickaname": "E:/Dev/WEG/TABLES_SAP/LFA1_NICKNAME.xlsx"
+            }
+        }
+    }
+}
